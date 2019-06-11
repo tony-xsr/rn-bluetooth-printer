@@ -1,0 +1,32 @@
+{
+  "name": "rn-bluetooth-printer",
+  "version": "1.0.1",
+  "description": "Support multi language.Fork from react-native-bluetooth-escpos-printer. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungtranuit/rn-bluetooth-printer.git"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "keywords": [
+    "react-native",
+    "ESC",
+    "POS",
+    "IOS",
+    "ANDROID",
+    "Bluetooth",
+    "Printer"
+  ],
+  "author": "tungtran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tungtranuit/rn-bluetooth-printer/issues"
+  },
+  "homepage": "https://github.com/tungtranuit/rn-bluetooth-printer#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
